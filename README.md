@@ -1,3 +1,4 @@
+Hi Daddy, use below instructions.
 # LinkedIn-EasyApply-Bot
 Apply jobs Fast
 
